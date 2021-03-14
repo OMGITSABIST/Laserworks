@@ -1,0 +1,24 @@
+LCLICK Place
+RCLICK Delete
+
+Z Generator
+X Redirector
+C Splitter
+V Bridge
+B Blocker
+
+CLICK+W Place Facing Up
+CLICK+A Place Facing Left
+CLICK+S Place Facing Down
+CLICK+D Place Facing Right
+
+SCROLLUP Rotate Counter-Clockwise
+SCROLLDOWN Rotate Clockwise
+
+UP Move Up
+DOWN Move Down
+LEFT Move Left
+RIGHT Move Right
+
+CTRL+NUM Save To File
+CTRL+SHIFT+NUM Load From File
